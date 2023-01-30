@@ -1,0 +1,11 @@
+C:\Users\ens_s\Desktop\Software\C# Course\cake-baking-process-application\cake-baking-process-application\bin\Debug\cake-baking-process-application.exe.config
+C:\Users\ens_s\Desktop\Software\C# Course\cake-baking-process-application\cake-baking-process-application\bin\Debug\cake-baking-process-application.exe
+C:\Users\ens_s\Desktop\Software\C# Course\cake-baking-process-application\cake-baking-process-application\bin\Debug\cake-baking-process-application.pdb
+C:\Users\ens_s\Desktop\Software\C# Course\cake-baking-process-application\cake-baking-process-application\obj\Debug\cake-baking-process-application.csproj.AssemblyReference.cache
+C:\Users\ens_s\Desktop\Software\C# Course\cake-baking-process-application\cake-baking-process-application\obj\Debug\cake-baking-process-application.csproj.SuggestedBindingRedirects.cache
+C:\Users\ens_s\Desktop\Software\C# Course\cake-baking-process-application\cake-baking-process-application\obj\Debug\cake_baking_process_application.Form1.resources
+C:\Users\ens_s\Desktop\Software\C# Course\cake-baking-process-application\cake-baking-process-application\obj\Debug\cake_baking_process_application.Properties.Resources.resources
+C:\Users\ens_s\Desktop\Software\C# Course\cake-baking-process-application\cake-baking-process-application\obj\Debug\cake-baking-process-application.csproj.GenerateResource.cache
+C:\Users\ens_s\Desktop\Software\C# Course\cake-baking-process-application\cake-baking-process-application\obj\Debug\cake-baking-process-application.csproj.CoreCompileInputs.cache
+C:\Users\ens_s\Desktop\Software\C# Course\cake-baking-process-application\cake-baking-process-application\obj\Debug\cake-baking-process-application.exe
+C:\Users\ens_s\Desktop\Software\C# Course\cake-baking-process-application\cake-baking-process-application\obj\Debug\cake-baking-process-application.pdb
